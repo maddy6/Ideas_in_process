@@ -1,6 +1,6 @@
-# Ideas_in_process
+Resources
 
-Privately Operating Index Fund Consist of 10 Cryptos.
+Bitwiseinvestment:- Privately Operating Index Fund Consist of 10 Cryptos.
 
 https://www.bitwiseinvestments.com/
 
@@ -24,6 +24,7 @@ https://static.crypto20.com/pdf/c20-whitepaper.pdf?_ga=2.138620275.1305152954.15
 
 
 
+
 3. Bit20 Index Fund
 
 http://www.bittwenty.com/
@@ -31,6 +32,13 @@ http://www.bittwenty.com/
 Reference for Bit20
 https://steemit.com/bitshares/@estefantt/bit20-the-cryptocurrency-index-fund
 
+4. Swissborg
+SwissBorg aims be the first Swiss cyber bank offering tailor-made crypto investment services
+https://swissborg.com/en/
+
+Reference for Swissborg
+https://swissborg.com/en/documents.html
+https://swissborg.com/files/swissborg-technical-whitepaper.pdf
 
 
 
@@ -45,16 +53,12 @@ Coinigy is your all-in-one platform for digital currency
 3. High-Frequency Trading
 4. Smart Contracts
 
+
+
 Coinigy API Available
 https://www.coinigy.com/api-documentation/
 
 Pricing
 https://www.coinigy.com/pricing/
-
 1. 1 Month trial Free
 2. $15/m when purchased annually
-
-
-
-
-
