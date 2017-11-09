@@ -1,3 +1,17 @@
+Price Index Calculations:
+The Alkon50 is computed using the free-float market capitalisation weighted method wherein
+the level of the Index reflects the total market value of all the crypto's in the Index relative to the
+base period January 1, 2013. The total market cap of a company or the market capitalisation is
+the product of market price and the total number of outstanding shares of the company. 
+
+
+
+
+
+
+
+
+
 Resources
 
 Bitwiseinvestment:- Privately Operating Index Fund Consist of 10 Cryptos.
