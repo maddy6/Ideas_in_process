@@ -1,15 +1,82 @@
+Outline of the Project
+
 Price Index Calculations:
 The Alkon50 is computed using the free-float market capitalisation weighted method wherein
 the level of the Index reflects the total market value of all the crypto's in the Index relative to the
-base period January 1, 2013. The total market cap of a company or the market capitalisation is
-the product of market price and the total number of outstanding shares of the company. 
+base period January 1, 2013.
+
+The Alokon30 is a market index and follows for the derivation the Laspeyres Index. The index of Laspeyres is defined as
+Laspeyres Index
+
+Liquidity Rule:
+1. 0.25 percentile of ADTV(Average Daily Trading Volume)
+2. 0.25 percentile of ADTC(Average Daily Traded Coins )
+
+Weights:
+Each cryptos in CRIX is weighted with its market capitalization.
+
+Reallocation:
+The reallocation period of the Alkon30 is 7 Days to ensure that the index is always up to date.
 
 
+Action Items:
+1. Build a Index fund with basic algorithm criteria.
+
+(I have already started the work on construction of index fund based on Market Capitalization criteria)
+Following points i'm considering during the construction of Index.
+1. Liquidity of the respective coin
+2. Inflation Adjusted Market Capitalization
+3. Weights calculation(I can use Markowitz efficient frontier to caluclate the weights)
+4. Availablity of coin & its exchange on Coinigy(as we are going to use Coinigy for integration with our platform)
+
+Time Line for building the basic prototype will be within 20 days.(Expected date: 25-29th Nov)
 
 
+2. Data Resources ....(Extract the necessary data)
+
+I have researched the different platforms, where we can use existing set of platforms for integration with our platforms.
+
+Coinigy:- 
+I have found Coinigy is the best platform we can use and also its cost effective.(See the Ref for coinigy at the bootom of this post)
+
+Also we need data from different exchanges as we are going to use weighted average method to calculate the price for underlying currencies.
+
+e.g Lets consider to obtain the data for Bitcoin, we need to consider the data from exchanges where the volume of the bitcoin is more.
+Taks: List of coins and fetch the data from respective excahges
+
+Also we need to capture the circulating supply of coins for underlying crypto's to calculate the Inflation adjusted market capitalization.We can use blockchain explorers to verify the coin transaction history and statistics.
 
 
+3. Data Storage Platform
 
+Currently I'm building local platform for our prototyope.
+In future, We can either go with AWS or Google Cloud Platform.
+
+
+4. ICO Planning
+
+1. Technical whitepaper
+  Credible technical roadmap
+  Plausible business roadmap
+  clear token distribution model
+2. Prototype
+
+3. Token Distribution
+
+4. Team
+
+5. Legal Aspects
+
+6. Website and newsletter
+  Social Media
+  Blog
+  Community channel
+  
+7. Pre-ICO Listing & Support
+
+8. ICO: Website Security & Stability
+
+9. Post ICO: Token Release
 
 
 Resources
