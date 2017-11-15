@@ -1,7 +1,11 @@
+#Alkon30 Index Fund
+
+Alkon30 Index Fund Summary: An Alkon30 index fund that will use the ICO funding to buy the underlying crypto assets from crypto universe. There is no broker fees, no exit load, no minimum investment and full control over your underlying assets. Backed by full Blockchain transparency.
+
 Outline of the Project
 
 Price Index Calculations:
-The Alkon50 is computed using the free-float market capitalisation weighted method wherein
+The Alkon30 is computed using the free-float market capitalisation weighted method wherein
 the level of the Index reflects the total market value of all the crypto’ s in the Index relative to the
 base period January 1, 2013.
 
